@@ -40,12 +40,21 @@ Este site foi criado como parte de uma atividade prática de **Fundamentos de HT
    Formulário interativo com validação e máscaras para CPF, telefone e CEP.
 
 ---
+## 👩‍💻 Desenvolvido por
 
-## 🧡 Como Executar o Projeto
+** Alex Paulo **  
+💻 Projeto acadêmico — Desenvolvimento Front-End (Experiência Prática I)
 
-1. Clone o repositório:
-   ```bash
-   git clone https://alex-paulo.github.io/patinhas-felizes-html5/
+---
+
+## 🧾 Licença
+
+Este projeto é de uso acadêmico e não possui fins comerciais.
+
+---
+## Conheça a ONG
+Clique [ AQUI ] https://alex-paulo.github.io/patinhas-felizes-html5/
+
 
 
 
