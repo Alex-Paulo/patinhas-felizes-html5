@@ -45,7 +45,7 @@ Este site foi criado como parte de uma atividade prática de **Fundamentos de HT
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Alex-Paulo/patinhas-felizes-html5.git
+   git clone https://alex-paulo.github.io/patinhas-felizes-html5/
 
 
 
