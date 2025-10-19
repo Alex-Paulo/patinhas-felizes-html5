@@ -53,7 +53,7 @@ Este projeto é de uso acadêmico e não possui fins comerciais.
 
 ---
 ## Conheça a ONG
-Clique [ AQUI ] ( https://alex-paulo.github.io/patinhas-felizes-html5/ )
+Clique [ AQUI ]( https://alex-paulo.github.io/patinhas-felizes-html5/ )
 
 
 
